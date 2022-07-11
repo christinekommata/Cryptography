@@ -1,0 +1,6 @@
+They have hacked our chain... from a specific block and onwards I cannot decrypt the messages.
+Find the problem and fix that... remove any bad blocks and rebuild the chain.
+Then run the link_final_block executable. It will test your chain and if it is valid it will add the last block
+I suppose you remember that the first block is encrypted with DES and the key is the number that is 10 times the one I have shared with you decades ago.
+
+P.S. I have provided you a help file chain_crypto_lib.py that will do all the crypto for you.
